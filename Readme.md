@@ -19,12 +19,16 @@ Data source : [source]
 
 __Methodology and Analysis:__
 
-1. Data Cleaning and Merging - Extracting data pertaining to US, data cleaning including handling missing values and merging relevant information.
+1. Data Cleaning and Merging - 
+   * Filtering relevant data - data related to USA and post 2009.
+   * Data Cleaning - Handling missing values, removing duplicates etc. 
+   * Feature Engineering and merging relevant information.
 2. Data Visualization for each type of the analysis  -
-    * The analysis started with evaluating the current scenario which included identifying number of companies founded in different sectors, over time and locations, top investors, acquirers, funding amount for each sector etc. 
-    * Building heat maps and looking for interactions such as between founded and funded helped uncover patterns and trends. 
-    * Building dashboards for each of the section using relevant graphs and exploring features like geo-maps, filters,  trend lines to impactfully communicate the findings  
-3. Story-Telling and Presentation - Combining dashboards and using story telling feature of tableau to present the findings.
+    * Evaluating the current scenario which included identifying number of companies founded in different sectors, over time and locations, top investors, acquirers, funding amount for each sector etc. 
+    * Drilling down further by plotting heat maps and looking for interactions such as between founded and funded year and amount which helped uncover patterns and trends. 
+    * Building dashboards for each of the section using relevant graphs and exploring features like geo-maps, filters, trend lines to impactfully communicate the findings.  
+3. Story-Telling and Presentation - 
+   * Combining dashboards and using story telling feature of tableau to present the findings.
 
 __Story__:
 

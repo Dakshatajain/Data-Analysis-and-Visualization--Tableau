@@ -26,4 +26,8 @@ __Methodology and Analysis:__
     * Building dashboards for each of the section using relevant graphs and exploring features like geo-maps, filters,  trend lines to impactfully communicate the findings  
 3. Story-Telling and Presentation - Combining dashboards and using story telling feature of tableau to present the findings.
 
+__Story__:
+The below dashboard is an example of the interactive dashboard that can be used by  start-ups / individuals planning to launch a start-up to get insights on the current start-up scenario and thus help in their decision making process.
+The entire version of my Start-up trend analysis story can be viewed by clicking on image below:
+
 [![title](Tableau.png "Title")](https://public.tableau.com/profile/dakshata#!/vizhome/StartUpTrendAnalysis/StartupAnalysis?publish=yes)
